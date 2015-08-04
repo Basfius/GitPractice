@@ -1,3 +1,6 @@
 Ward: This is a genuine text file, I hope you like it.
 
 Ward: Adding a new line of safe text.
+
+Wise: I’ve come to steal this magnificent genuine file.
+
