@@ -1,1 +1,3 @@
 Ward: This is a genuine text file, I hope you like it.
+
+Wise: I’ve come to steal this magnificent genuine file.
